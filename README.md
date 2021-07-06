@@ -5,7 +5,7 @@
 - 🔭 I'm currently student  
 - 🌱 I’m currently learning React Native
 - 👯 I’m finding the job as a web developer
-- 🥅 2021 Goals: Learn  Next Js And GraplQL, D3.js
+- 🥅 2021 Goals: Learn  Next Js And GraplQL.
 
 
 ### Connect with me:
