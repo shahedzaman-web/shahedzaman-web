@@ -3,10 +3,9 @@
 ## I'm a Full Stack web developer
 
 - 🔭 I'm currently student  
-- 🌱 I’m currently learning React Native
+- 🌱 I’m currently learning Node JS
 - 👯 I’m finding the job as a web developer
-- 🥅 2021 Goals: Learn  Next JS.
-
+- 🥅 2022 Goals: Learn  Flutter
 
 ### Connect with me:
 
