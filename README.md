@@ -2,6 +2,16 @@
 
 ## I'm a Full Stack React Native developer
 
+
+Hi there, I'm Md. Shaheduzzaman, a passionate React Native developer with 2 of experience creating engaging mobile applications for both iOS and Android platforms.
+
+I'm highly skilled in JavaScript and have a deep understanding of React Native's architecture and core concepts. My technical proficiency allows me to create highly responsive, performant, and scalable apps that provide seamless user experiences.
+
+I have a keen eye for design and love to collaborate with designers to create beautiful, intuitive interfaces that are both aesthetically pleasing and highly functional.
+
+In addition to my technical skills, I'm also a strong communicator and enjoy working in a collaborative environment. I'm always looking to learn new things and stay up-to-date with the latest trends and technologies in the industry.
+
+Check out my GitHub repositories to see some of my work, and feel free to reach out if you'd like to collaborate on a project or have any questions. Let's build something great together!
 - 🔭 I'm currently student  
 - 👯 I’m currently learning Flutter 
 
