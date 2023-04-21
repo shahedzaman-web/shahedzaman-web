@@ -1,11 +1,10 @@
 ### Hi there, I'm Md. Shaheduzzaman 👋
 
-## I'm a Full Stack web developer
+## I'm a Full Stack React Native developer
 
 - 🔭 I'm currently student  
-- 🌱 I’m currently learning Node JS
-- 👯 I’m finding the job as a web developer
-- 🥅 2022 Goals: Learn  Flutter
+- 👯 I’m currently learning Flutter 
+
 
 ### Connect with me:
 
