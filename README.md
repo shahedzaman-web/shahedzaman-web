@@ -1,57 +1,90 @@
-# 🌟 Shahed Zaman - Portfolio
+# Hi there 👋, I'm Md. Shaheduzzaman
 
-Welcome to my personal portfolio repository! Here, you will find details about my projects, skills, and experience. Visit my [🌐 website](https://shahed-zaman.vercel.app/) to see the live version.
+> React Native Developer with 2+ years of experience specializing in building high-quality mobile applications.
 
-![Welcome Animation](https://media.giphy.com/media/26n6WywJyh39n1pBu/giphy.gif) <!-- Replace with a relevant animation -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-shaheduzzaman/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shahedzaman-web)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/8801786233560)
 
 ## 👨‍💻 About Me
 
-I am **Shahed Zaman**, a passionate software developer specializing in mobile and backend development. I have experience in building robust and scalable applications using technologies such as React Native, Node.js, and Firebase.
+I'm passionate about creating intuitive and user-friendly mobile applications that deliver exceptional user experiences. With a strong background in JavaScript, React Native, and related technologies, I focus on building high-performance, scalable applications.
 
-## 🚀 Projects
+- 📍 Based in Dhaka, Bangladesh
+- 📧 Email: physics.shahedzaman@gmail.com
+- 📱 Phone: +880 1786 233 560
 
-### 1. Admissions Assist
-🎓 **Description**: A comprehensive mobile application that simplifies the college admissions process. It provides students with resources and tools to research colleges, track application deadlines, and submit applications.  
-📱 **Google Play**: [Admissions Assist](https://play.google.com/store/apps/details?id=com.admissionsassist)  
-📱 **App Store**: [Admissions Assist](https://apps.apple.com/us/app/admissions-assist/id6478013507)  
-🛠️ **Technologies**: ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) ![Education](https://img.shields.io/badge/Education-0078D7?style=for-the-badge&logo=education&logoColor=white) ![Admissions](https://img.shields.io/badge/Admissions-FFCA28?style=for-the-badge&logo=admissions&logoColor=black) ![College](https://img.shields.io/badge/College-9C27B0?style=for-the-badge&logo=college&logoColor=white) ![Tracking](https://img.shields.io/badge/Tracking-F44336?style=for-the-badge&logo=tracking&logoColor=white)
+## 🚀 Featured Projects
 
-### 2. Freelly
-🚴 **Description**: Freelly is a bikepool and carpool mobile application that connects users for shared rides. It helps reduce traffic congestion and promotes eco-friendly transportation.  
-🔗 **Links**: [GitHub](https://github.com/shahedzaman-web/freelly_app), [Google Play](https://play.google.com/store/apps/details?id=com.freellyapp), [App Store](https://apps.apple.com/us/app/freelly-bikepool-carpool/id6476261777)  
-🛠️ **Technologies**: ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white) ![Transportation](https://img.shields.io/badge/Transportation-1976D2?style=for-the-badge&logo=transportation&logoColor=white) ![Carpool](https://img.shields.io/badge/Carpool-FF6F00?style=for-the-badge&logo=carpool&logoColor=white) ![Bikepool](https://img.shields.io/badge/Bikepool-689F38?style=for-the-badge&logo=bikepool&logoColor=white)
+### Admissions Assist
+A comprehensive mobile application simplifying the college admissions process.
+- 📱 [App Store](https://apps.apple.com/us/app/admissions-assist/id6478013507)
+- 🤖 [Play Store](https://play.google.com/store/apps/details?id=com.admissionsassist)
+- 🔧 Technologies: React Native, Android, iOS
+- 🎯 Features: College research, Application tracking, Deadline management
 
-## 💼 Skills
+### Freelly
+Bikepool and carpool mobile application connecting users for shared rides.
+- 📱 [App Store](https://apps.apple.com/us/app/freelly-bikepool-carpool/id6476261777)
+- 🤖 [Play Store](https://play.google.com/store/apps/details?id=com.freellyapp)
+- 🔧 Technologies: React Native, Android, iOS
+- 🎯 Features: Ride sharing, Route optimization, User matching
 
-- **💻 Programming Languages**:
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+## 💼 Experience
 
-- **📚 Frameworks & Libraries**:
-  ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-  ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-  ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+### Mobile & Backend Engineer @ TrustGuid (Australia)
+*September 2024 - Present*
+- Full-stack development using React Native and Node.js
+- Building native-like mobile applications for iOS and Android
+- Developing scalable backend services
 
-- **⚙️ Tools & Platforms**:
-  ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-  ![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
-  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+### Full Stack React Native Developer @ Centara Tech Venture Ltd
+*November 2023 - August 2024*
+- Developed user-facing features using React.js
+- Built reusable components and front-end libraries
+- Translated designs into high-quality code
 
-- **💾 Databases**:
-  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+## 🛠 Skills
 
-## 📫 Contact
+### Mobile Development
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white)
 
-Feel free to reach out to me through the following platforms:
+### Web Development
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
-- **LinkedIn**: [Shahed Zaman](https://www.linkedin.com/in/shahedzaman)  
-- **GitHub**: [shahedzaman-web](https://github.com/shahedzaman-web)  
-- **WhatsApp**: [https://wa.me/8801786233560]
+### Programming Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-## 📜 License
+### Database
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+## 📱 Recent Projects
+
+1. **MoodSinger** - Music recommendation app based on mood
+2. **Foodmoodbd** - All-in-one food delivery platform
+3. **St Joseph** - Community app for educational institution
+4. **Rubbish Renegade** - Waste management tracking app
+5. **Wakei** - Interactive youth group activities app
+
+## 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=shahedzaman-web&show_icons=true&theme=radical)
+
+## 📫 Get in Touch
+
+Feel free to reach out for collaborations or just a friendly chat:
+- 💼 [LinkedIn](https://www.linkedin.com/in/md-shaheduzzaman/)
+- 📧 physics.shahedzaman@gmail.com
+- 📱 +880 1786 233 560
+- 💬 [WhatsApp](https://wa.me/8801786233560)
