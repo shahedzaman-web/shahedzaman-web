@@ -32,11 +32,13 @@ Bikepool and carpool mobile application connecting users for shared rides.
 
 ## 💼 Experience
 
-### Mobile & Backend Engineer @ TrustGuid (Australia)
+### Assistant Developer @ Moodsinger
 *September 2024 - Present*
-- Full-stack development using React Native and Node.js
-- Building native-like mobile applications for iOS and Android
-- Developing scalable backend services
+- Responsible for both mobile and backend engineering tasks, fulfilling the duties outlined by the Company.
+- Work independently, completing tasks and projects according to the schedules and expectations set by the Company.
+- Utilise React Native to create native-like mobile applications for both iOS and Android platforms.
+- Build efficient and interactive web interfaces.
+- Leverage Node.js to develop scalable and performant backend services.
 
 ### Full Stack React Native Developer @ Centara Tech Venture Ltd
 *November 2023 - August 2024*
